@@ -1,3 +1,7 @@
+## Nota
+
+após instalação acessar a url (/file) para execução da tarefa.
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
